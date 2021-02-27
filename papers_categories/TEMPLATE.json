@@ -1,0 +1,23 @@
+{
+    "#register_name":{
+        "paper_names": "",
+        "alias": {
+            "a1": ""
+        },
+        "authors": "",
+        "categories": {
+            "c1": ""
+        },
+        "year": "",
+        "publisher": "",
+        "pages": "",
+        "brief": "",
+        "blogs": {
+            "b1": ""
+        },
+        "maintainers": {
+            "m1": ""
+        },
+        "download_link": ""
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "si2018stgcn":{
+        "paper_names": "Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition",
+        "alias": {
+            "a1": "ST-GCN"
+        },
+        "authors": "Sijie Yan and Yuanjun Xiong and Dahua Lin",
+        "categories": {
+            "c1": "action_recognition.skeleton_action_recognition"
+        },
+        "year": "2018",
+        "publisher": "AAAI",
+        "brief": "该文章是骨骼点动作识别的经典之作，率先在骨骼点序列上采用了图卷积计算，达到了SOTA；同时提供了有效的开源框架，是很多后续工作的始祖。",
+        "maintainers": {
+            "m1": "FesianXu"
+        }
+    }
+}

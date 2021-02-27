@@ -1,0 +1,140 @@
+{
+    "root": {
+        "r1": "action_recognition",
+        "r2": "motion_capture",
+        "r3": "human_pose",
+        "r4": "computer_graphics",
+        "r5": "image_classification",
+        "r7": "information_retrieval",
+        "r8": "recommend_system",
+        "r9": "video_analysis",
+        "r10": "machine_learning_theory",
+        "r11": "neural_network_theory",
+        "r12": "deep_learning_system",
+        "r13": "multimedia",
+        "r14": "neural_language_process",
+        "r15": "computer_vision",
+        "r16": "digital_signal_process",
+        "r17": "communication_network",
+        "r18": "deep_learning",
+        "r19": "reinforcement_learning",
+        "r20": "meta_learning",
+        "r21": "human_face"
+    },
+
+    "action_recognition": {
+        "ar1": "skeleton_action_recognition",
+        "ar2": "multiview",
+        "ar3": "optical_flow",
+        "ar4": "atomic_action_analysis"
+    },
+
+    "motion_capture": {
+        "mc1": "video_motion_capture",
+        "mc2": "image_motion_capture"
+    },
+
+    "human_pose": {
+        "hp1": "3d_pose",
+        "hp2": "2d_pose"
+    },
+
+    "computer_graphics": {
+        "cg1": "3d_human_model",
+        "cg2": "render"
+    },
+
+    "image_classification": {
+        "ic1": "general_image_classification"
+    },
+
+    "tricks": {
+        "t1": "training_tricks"
+    },
+
+    "information_retrieval": {
+        "ir1": "video_retrieval_system",
+        "ir2": "basic_recall",
+        "ir3": "basic_rank",
+        "ir4": "learn_to_rank",
+        "ir5": "semantic_recall",
+        "ir6": "semantic_rank",
+        "ir7": "application_cases"
+    },
+
+    "recommend_system": {
+        "rs1": ""
+    },
+
+    "video_analysis": {
+        "va1": "video_representation"
+    },
+
+    "machine_learning_theory": {
+        "mlt1": ""
+    },
+
+    "neural_network_theory": {
+        "nnt1": ""
+    },
+
+    "deep_learning_system": {
+        "dls1": "pytorch",
+        "dls2": "darknet"
+    },
+
+    "multimedia": {
+        "mm1": "multiple_modality"
+    },
+    
+    "neural_language_process": {
+        "nlp1": "word_representation",
+        "nlp2": "matching",
+        "nlp3": "machine_translation"
+    },
+    
+    "computer_vision": {
+        "cv1": "multiple_view_geometry"
+    },
+    
+    "deep_learning": {
+        "dl1": "tricks",
+        "dl2": "neural_network_structure",
+        "dl3": "basic_theory",
+        "dl4": "optimizer",
+        "dl5": "data_augmentation",
+        "dl6": "metrics_design"
+    },
+    
+    "human_face": {
+        "hf1": "face_identification"
+    },
+
+
+    "multiple_modality": {
+        "mm1": "Video_Question_Answer",
+        "mm2": "language_image_model",
+        "mm3": "language_video_model"
+    },
+    
+    "render": {
+        "r1": "physically_base_rendering",
+        "r2": "basic_rendering",
+        "r3": "ray_track"
+    },
+    
+    
+    "ray_track": {
+        "rt1": "realtime_ray_track"
+    },
+    
+    "neural_network_structure": {
+        "nns1": "convolutional_network",
+        "nns2": "recurrent_network",
+        "nns3": "transformer"
+    }
+
+
+
+
+}

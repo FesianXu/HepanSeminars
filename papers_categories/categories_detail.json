@@ -1,0 +1,226 @@
+{
+    "root": {
+        "action_recognition": {
+            "chinese": "动作识别",
+            "alias": ["动作分类","行为识别"],
+            "brief": "根据输入的RGB，depth，skeleton信息等对其中的人体动作进行判断，算法需要解决多视角，动作语义复杂多变等各类问题。",
+            "maintainers": []
+        },
+
+        "motion_capture": {
+            "chinese": "动作捕捉",
+            "alias": ["动捕"],
+            "brief": "根据主动设备（红外激光）或者被动设备（多视角摄像机，单目相机）等对媒体中的人体动作进行捕捉。",
+            "maintainers": []
+        },
+
+        "human_pose": {
+            "chinese": "人类姿态相关",
+            "alias": [],
+            "brief": "如何描述人类的姿态，常用与人体建模，包括3D模型和2D模型等，是人体分析的一大利器。",
+            "maintainers": []
+        },
+
+        "computer_graphics": {
+            "chinese": "计算机图形学",
+            "alias": [],
+            "brief": "计算机图形学(Computer Graphics，简称CG)是一种使用数学算法将二维或三维图形转化为计算机显示器的栅格形式的科学。其中包括渲染，物理现象建模，三维模型构建等诸多细分领域",
+            "maintainers": []
+        },
+
+        "image_classification": {
+            "chinese": "图像分类",
+            "alias": ["图像识别"],
+            "brief": "对图像进行类别分类，其中的图像可以是自然图像，也可以是特殊领域图像，比如红外光谱，医学图像，深度图等等。",
+            "maintainers": []
+        },
+
+        "information_retrieval": {
+            "chinese": "信息检索",
+            "alias": ["信息搜索"],
+            "brief": "在海量数据中寻找到特定需要的数据的科学，通常需要由用户提供一个检索词进行检索。主要有召回，排序（粗排序，精排序），LTR等。目前多模态检索系统也是业界很火爆的方向。",
+            "maintainers": []
+        },
+
+        "recommend_system": {
+            "chinese": "推荐系统",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "video_analysis": {
+            "chinese": "视频分析",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "machine_learning_theory": {
+            "chinese": "机器学习理论",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "neural_network_theory": {
+            "chinese": "神经网络理论",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "deep_learning_system": {
+            "chinese": "深度学习系统架构",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "multimedia": {
+            "chinese": "多媒体",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "neural_language_process": {
+            "chinese": "自然语言处理",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "computer_vision": {
+            "chinese": "计算机视觉",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "digital_signal_process": {
+            "chinese": "数字信号处理",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "communication_network": {
+            "chinese": "通信网",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "deep_learning": {
+            "chinese": "深度学习",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "reinforcement_learning": {
+            "chinese": "增强学习",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "meta_learning": {
+            "chinese": "元学习",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+
+        "human_face": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        }
+    },
+
+
+    "action_recognition": {
+        "skeleton_action_recognition": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+        "multiview": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+        "optical_flow": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        },
+        "atomic_action_analysis": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        } 
+    },
+
+    "motion_capture": {
+        "video_motion_capture": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        }, 
+        "image_motion_capture": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        }
+    },
+
+    "human_pose": {
+        "3d_pose": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        }, 
+        "2d_pose": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        }
+    },
+
+    "computer_graphics": {
+        "3d_human_model": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        }, 
+        "render": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        }
+    },
+
+    "image_classification": {
+        "3d_human_model": {
+            "chinese": "人脸相关",
+            "alias": [],
+            "brief": "",
+            "maintainers": []
+        }
+    }
+
+}

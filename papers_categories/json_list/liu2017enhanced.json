@@ -1,0 +1,17 @@
+{
+    "liu2017enhanced":{
+        "paper_names": "Enhanced skeleton visualization for view invariant human action recognition",
+        "authors": "Liu, Mengyuan and Liu, Hong and Chen, Chen",
+        "categories": {
+            "c1": "action_recognition.multiview",
+            "c2": "action_recognition.skeleton_action_recognition"
+        },
+        "year": "2017",
+        "publisher": "Pattern Recognition",
+        "pages": "346--362",
+        "brief": "该工作是采用CNN的方式对多视角的骨骼点动作识别问题进行建模，作者用某种可视化的手段将不同视角的骨骼点序列可视化到二维图上，然后用一些图像增强的方式减小噪声，最后用CNN进行特征提取并且分类。",
+        "maintainers": {
+            "m1": "FesianXu"
+        }
+    }
+}

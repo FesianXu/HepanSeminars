@@ -1,0 +1,23 @@
+{
+    "loper2015smpl":{
+        "paper_names": "SMPL: A Skinned Multi-Person Linear Model",
+        "alias": {
+            "a1": "SMPL"
+        },
+        "authors": "Loper, Matthew  and  Mahmood, Naureen  and  Romero, Javier  and  Pons-Moll, Gerard  and  Black, Michael J.",
+        "categories": {
+            "c1": "computer_graphics.3d_human_model",
+            "c2": "motion_capture.video_motion_capture",
+            "c3": "human_pose.3d_pose"
+        },
+        "year": "2015",
+        "publisher": "Acm Transactions on Graphics(TOG)",
+        "brief": "SMPL模型是目前在3D数字人体建模中用的最多最广泛的模型之一，其采用pose和shape参数对一个人的高矮胖瘦和运动进行参数化描述，在动作捕捉领域用途广泛。",
+        "blogs": {
+            "b1": "https://blog.csdn.net/LoseInVain/article/details/107265821"
+        },
+        "maintainers": {
+            "m1": "FesianXu"
+        }
+    }
+}

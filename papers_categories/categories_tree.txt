@@ -1,0 +1,68 @@
+../papers_categories/all_categories/
+└── root
+    ├── action_recognition
+    │   ├── atomic_action_analysis
+    │   ├── multiview
+    │   ├── optical_flow
+    │   └── skeleton_action_recognition
+    ├── communication_network
+    ├── computer_graphics
+    │   ├── 3d_human_model
+    │   └── render
+    │       ├── basic_rendering
+    │       ├── physically_base_rendering
+    │       └── ray_track
+    │           └── realtime_ray_track
+    ├── computer_vision
+    │   └── multiple_view_geometry
+    ├── deep_learning
+    │   ├── basic_theory
+    │   ├── data_augmentation
+    │   ├── metrics_design
+    │   ├── neural_network_structure
+    │   │   ├── convolutional_network
+    │   │   ├── recurrent_network
+    │   │   └── transformer
+    │   ├── optimizer
+    │   └── tricks
+    │       └── training_tricks
+    ├── deep_learning_system
+    │   ├── darknet
+    │   └── pytorch
+    ├── digital_signal_process
+    ├── human_face
+    │   └── face_identification
+    ├── human_pose
+    │   ├── 2d_pose
+    │   └── 3d_pose
+    ├── image_classification
+    │   └── general_image_classification
+    ├── information_retrieval
+    │   ├── application_cases
+    │   ├── basic_rank
+    │   ├── basic_recall
+    │   ├── learn_to_rank
+    │   ├── semantic_rank
+    │   ├── semantic_recall
+    │   └── video_retrieval_system
+    ├── machine_learning_theory
+    ├── meta_learning
+    ├── motion_capture
+    │   ├── image_motion_capture
+    │   └── video_motion_capture
+    ├── multimedia
+    │   └── multiple_modality
+    │       ├── language_image_model
+    │       ├── language_video_model
+    │       └── Video_Question_Answer
+    ├── neural_language_process
+    │   ├── machine_translation
+    │   ├── matching
+    │   └── word_representation
+    ├── neural_network_theory
+    ├── recommend_system
+    ├── reinforcement_learning
+    └── video_analysis
+        └── video_representation
+
+65 directories, 0 files

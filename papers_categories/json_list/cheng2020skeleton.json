@@ -1,0 +1,23 @@
+{
+    "cheng2020skeleton":{
+        "paper_names": "Skeleton-Based Action Recognition With Shift Graph Convolutional Network",
+        "alias": {
+            "a1": "Shift-GCN"
+        }, 
+        "authors": "Cheng, Ke and Zhang, Yifan and He, Xiangyu and Chen, Weihan and Cheng, Jian and Lu, Hanqing",
+        "categories": {
+            "c1": "action_recognition.skeleton_action_recognition",
+            "c2": "action_recognition.multiview"
+        },
+        "year": "2020",
+        "publisher": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "pages": "183--192",
+        "brief": "该文章启发自Shift卷积算子，是该算子在Graph领域的延生，用更少的参数量和计算量实现了更好的性能，此外该网络不需要任何空间卷积，通过shift操作就可以实现空间感受野。",
+        "blogs": {
+            "b1": "https://fesian.blog.csdn.net/article/details/109563113"
+        },
+        "maintainers": {
+            "m1": "FesianXu"
+        }
+    }
+}

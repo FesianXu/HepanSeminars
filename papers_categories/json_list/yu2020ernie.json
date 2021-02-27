@@ -1,0 +1,18 @@
+{
+    "yu2020ernie":{
+        "paper_names": "Ernie-vil: Knowledge enhanced vision-language representations through scene graph",
+        "alias": {
+            "a1": "ernie-vil"
+        },
+        "authors": "Yu, Fei and Tang, Jiji and Yin, Weichong and Sun, Yu and Tian, Hao and Wu, Hua and Wang, Haifeng",
+        "categories": {
+            "c1": "multimedia.multiple_modality.language_image_model"
+        },
+        "year": "2020",
+        "publisher": "arxiv",
+        "brief": "该文章是由百度ERNIE改进而来，是一种结合文本-图片的多模态语义模型，其图片输入需要对图片进行Object Detection之后，将ROI提取出来作为每一个visual word，所有的视觉信息作为一个流，另一个流是文本信息。同时，该模型还利用了知识图谱的实体，以实体为单位进行单词的mask。",
+        "maintainers": {
+            "m1": "FesianXu"
+        }
+    }
+}

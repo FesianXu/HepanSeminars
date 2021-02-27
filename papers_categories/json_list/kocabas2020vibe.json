@@ -1,0 +1,23 @@
+{
+    "kocabas2020vibe":{
+        "paper_names": "Vibe: Video inference for human body pose and shape estimation",
+        "alias": {
+            "a1": "VIBE"
+        },
+        "authors": "Kocabas, Muhammed and Athanasiou, Nikos and Black, Michael J",
+        "categories": {
+            "c1": "motion_capture.video_motion_capture",
+            "c2": "human_pose.3d_pose"
+        },
+        "year": "2020",
+        "publisher": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "pages": "5253--5263",
+        "brief": "VIBE模型是视频人体动捕领域的经典之作，可以很好地对RGB视频中的人体动作进行捕捉，并且进行渲染可视化。",
+        "blogs": {
+            "b1": "https://fesian.blog.csdn.net/article/details/108322781"
+        },
+        "maintainers": {
+            "m1": "FesianXu"
+        }
+    }
+}
